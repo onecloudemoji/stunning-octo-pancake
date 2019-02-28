@@ -7,8 +7,9 @@ NOTE: Porting this to python 3 will cause the victim machine to CRAWL, to the po
 
 To turn this into a self contained exe instead of a python scrips:
 
-pip install pyinstaller
-pyinstaller keylogger.py
+>pip install pyinstaller
+>
+>pyinstaller keylogger.py
 
 Easy peasy. 
 
